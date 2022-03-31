@@ -22,7 +22,7 @@ Have fun with this, only have one in purchase or in the mail at a time 😎
 
 - Upgraded Extruder
 - Upgraded Hotend
-
+- Motherboard?
 
 # Repository
 
