@@ -11,8 +11,8 @@ Development &amp; planning contents for Anycubic Chiron printer
 - Hotend!
 - Pnuematic tube & fittings
 - Befenybay research
-- Custom angle brackets?[Anycubic Chiron & Mega S Upgrades = JD's World](
-- https://jdsworld.com/tech-support/anycubic-chiron-mega-s-upgrades/)
+- Custom angle brackets?
+- [Anycubic Chiron & Mega S Upgrades - JD's World](https://jdsworld.com/tech-support/anycubic-chiron-mega-s-upgrades/)
 - Cleaner Stepper Drivers
 
 
