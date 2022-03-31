@@ -5,7 +5,7 @@ Development &amp; planning contents for Anycubic Chiron printer
 
 # Ideas
 
-- BLtouch ([ref](https://youtu.be/eF060dBEnfs)
+- BLtouch ([ref](https://youtu.be/eF060dBEnfs))
 - Custom LCD touchscreen you build for portfolio & release
 - Transparent Befenybey Extruder parts
 - Hotend!
